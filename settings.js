@@ -32,7 +32,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.vcardowner = ['+94714079212'] // owner number
 global.ownername = "Chanduka Bandara" // owner name
 global.ytname = "" // yt chanel 𝙳𝚎𝚟𝚎𝚗𝚒
-global.socialm = "GitHub: chanduka2006" // github or insta name
+global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
