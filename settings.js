@@ -42,14 +42,14 @@ global.dragonchat = "𝚝𝚛𝚞𝚎"  // chat bot  "true" / "false" (200 auto 
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
 global.antibad = "𝚝𝚛𝚞e" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
-global.antilink = "false" // To remove group link sharing peoples
-global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
+global.antilink = "true" // To remove group link sharing peoples
+global.upsongvoice = "true" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
 global.owner = ['+94714079212']
 global.ownertag = '+94714079212' //your tag number
-global.botname = '𝙲𝙷𝙰𝙽𝚄-𝙱𝙾𝚃' //ur bot name
+global.botname = '𝙼𝚁 𝙳𝙴𝚅𝙴𝙽𝙸-𝙱𝙾𝚃' //ur bot name
 global.packname = "𝐃𝐄𝐕𝐄𝐍𝐈" // sticker packname
 global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
